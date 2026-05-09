@@ -1,0 +1,94 @@
+{
+  "brand": [
+    {
+      "id": "ray-ban",
+      "nome": "Ray-Ban",
+      "nazione": "USA",
+      "segmento": "premium",
+      "descrizione": "Il brand di occhiali più iconico al mondo. Dal Wayfarer all'Aviator, stile senza tempo.",
+      "prezzoRange": "€130 – €280",
+      "categorie": ["sole", "vista"]
+    },
+    {
+      "id": "persol",
+      "nome": "Persol",
+      "nazione": "Italia",
+      "segmento": "premium",
+      "descrizione": "Artigianato italiano d'eccellenza dal 1917. Produzione a Lauriano, acetato Mazzucchelli.",
+      "prezzoRange": "€200 – €380",
+      "categorie": ["sole", "vista"]
+    },
+    {
+      "id": "lindberg",
+      "nome": "Lindberg",
+      "nazione": "Danimarca",
+      "segmento": "lusso",
+      "descrizione": "Design scandinavo minimalista in titanio ultraleggero. Ogni occhiale assemblato a mano in Danimarca.",
+      "prezzoRange": "€450 – €900",
+      "categorie": ["vista", "sole"]
+    },
+    {
+      "id": "tom-ford",
+      "nome": "Tom Ford",
+      "nazione": "USA",
+      "segmento": "lusso",
+      "descrizione": "Glamour contemporaneo e proporzioni audaci. Icone del lusso per chi ama distinguersi.",
+      "prezzoRange": "€280 – €550",
+      "categorie": ["sole", "vista"]
+    },
+    {
+      "id": "lozza",
+      "nome": "Lozza",
+      "nazione": "Italia",
+      "segmento": "medio",
+      "descrizione": "Storico marchio italiano fondato nel 1878. Qualità artigianale a prezzi accessibili.",
+      "prezzoRange": "€80 – €160",
+      "categorie": ["sole", "vista"]
+    },
+    {
+      "id": "bourjois",
+      "nome": "Bourjois",
+      "nazione": "Francia",
+      "segmento": "medio",
+      "descrizione": "Montature femminili con dettagli fashion ispirati alla moda parigina.",
+      "prezzoRange": "€90 – €170",
+      "categorie": ["vista", "sole"]
+    },
+    {
+      "id": "maui-jim",
+      "nome": "Maui Jim",
+      "nazione": "USA",
+      "segmento": "premium",
+      "descrizione": "Specialisti di lenti polarizzate ad alta definizione per sport outdoor e spiaggia.",
+      "prezzoRange": "€180 – €340",
+      "categorie": ["sole"]
+    },
+    {
+      "id": "oakley",
+      "nome": "Oakley",
+      "nazione": "USA",
+      "segmento": "sport",
+      "descrizione": "Tecnologia ottica al servizio dello sport. Lenti Prizm e montature a prova di impatto.",
+      "prezzoRange": "€120 – €300",
+      "categorie": ["sport", "sole"]
+    },
+    {
+      "id": "carrera",
+      "nome": "Carrera",
+      "nazione": "Italia",
+      "segmento": "medio",
+      "descrizione": "Spirito sportivo e design italiano dal 1956. Linee dinamiche per un look fresco e contemporaneo.",
+      "prezzoRange": "€95 – €190",
+      "categorie": ["sole", "vista"]
+    },
+    {
+      "id": "burberry",
+      "nome": "Burberry",
+      "nazione": "UK",
+      "segmento": "lusso",
+      "descrizione": "L'iconico tartan britannico incontra il lusso contemporaneo. Montature raffinate per ogni occasione.",
+      "prezzoRange": "€220 – €420",
+      "categorie": ["sole", "vista"]
+    }
+  ]
+}

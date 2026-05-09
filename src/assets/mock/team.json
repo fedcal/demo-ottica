@@ -1,0 +1,36 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Claudia Ferretti",
+      "ruolo": "Ottica Diplomata — Titolare",
+      "bio": "Diplomata all'Istituto Superiore di Ottica di Torino nel 1997, Claudia ha fondato Ottica Visus nel 1998. Specializzata in montature di lusso e lenti progressive personalizzate.",
+      "anniEsperienza": 27,
+      "specialita": ["Lenti progressive", "Presbiopia", "Montature di lusso", "Consulenza personalizzata"]
+    },
+    {
+      "id": 2,
+      "nome": "Marco Sasso",
+      "ruolo": "Ottico Diplomato — Contattologia",
+      "bio": "Ottico diplomato con master in contattologia avanzata. Specialista in applicazione di lenti per astigmatismo irregolare e orto-cheratologia.",
+      "anniEsperienza": 14,
+      "specialita": ["Orto-K", "Astigmatismo", "Lenti rigide gas-permeabili", "Miopia progressiva"]
+    },
+    {
+      "id": 3,
+      "nome": "Sara Bisio",
+      "ruolo": "Ottica Diplomata — Ipovisione",
+      "bio": "Specializzata in ipovisione e ausili ottici per anziani e persone con patologie retiniche. Collabora con le ASL della Liguria per i percorsi riabilitativi visivi.",
+      "anniEsperienza": 9,
+      "specialita": ["Ipovisione", "Maculopatia", "Filtri selettivi", "Anziani e disabilità visiva"]
+    },
+    {
+      "id": 4,
+      "nome": "Luca Piana",
+      "ruolo": "Ottico Diplomato — Sport e Outdoor",
+      "bio": "Appassionato di sport, Luca cura la selezione di occhiali da sport e lenti fotocromatiche. Consulente per atleti amatoriali e professionisti.",
+      "anniEsperienza": 6,
+      "specialita": ["Lenti polarizzate", "Ciclismo", "Sci e montagna", "Fotocromici Transitions"]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ragioneSociale": "Ottica Visus S.n.c.",
+  "nomeCommerciale": "Ottica Visus",
+  "tagline": "Occhiali da vista, lenti a contatto, sole — Genova",
+  "descrizione": "Ottica Visus è il punto di riferimento per la salute visiva a Genova dal 1998. Ottici diplomati, esame della vista gratuito, le migliori montature al mondo.",
+  "autorizzazione": "Autorizzazione ASL Genova n. 2451/98",
+  "indirizzo": {
+    "via": "Via XX Settembre 145",
+    "citta": "Genova",
+    "provincia": "GE",
+    "cap": "16121",
+    "regione": "Liguria",
+    "paese": "Italia",
+    "lat": 44.4073,
+    "lng": 8.9337
+  },
+  "contatti": {
+    "telefono": "+39 010 555 8800",
+    "whatsapp": "+393471234567",
+    "email": "info@otticavisus.it",
+    "social": {
+      "instagram": "https://instagram.com/otticavisus",
+      "facebook": "https://facebook.com/otticavisus"
+    }
+  },
+  "orari": {
+    "lunedi": "09:30 – 13:00 / 15:30 – 19:30",
+    "martedi": "09:30 – 13:00 / 15:30 – 19:30",
+    "mercoledi": "09:30 – 13:00 / 15:30 – 19:30",
+    "giovedi": "09:30 – 13:00 / 15:30 – 19:30",
+    "venerdi": "09:30 – 13:00 / 15:30 – 19:30",
+    "sabato": "09:30 – 13:00 / 15:30 – 19:00",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Ottica Visus — Ottico a Genova, esame vista gratuito",
+    "description": "Ottica Visus a Genova: esame della vista gratuito, occhiali da vista e da sole, lenti a contatto, contattologia avanzata. Ray-Ban, Persol, Lindberg e altri grandi brand.",
+    "keywords": ["ottica genova", "esame vista gratuito", "lenti a contatto", "occhiali da sole", "contattologia", "orto-k", "ray-ban", "persol"]
+  }
+}

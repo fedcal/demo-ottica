@@ -1,0 +1,92 @@
+{
+  "servizi": [
+    {
+      "id": "esame-vista",
+      "nome": "Esame della Vista Gratuito",
+      "descrizione": "Controllo completo della refrazione con strumentazione computerizzata e valutazione manuale da parte di un ottico diplomato. Nessun appuntamento necessario.",
+      "durata": "30 minuti",
+      "prezzo": 0,
+      "prezzoLabel": "Gratuito",
+      "icon": "👁️",
+      "categoria": "diagnostica",
+      "evidenza": true
+    },
+    {
+      "id": "montaggio-lenti",
+      "nome": "Montaggio Lenti su Misura",
+      "descrizione": "Taglio, centratura e montaggio lenti progressive, bifocali, monofocali e fotocromatiche su qualsiasi montatura. Garanzia 2 anni sulle lenti.",
+      "durata": "1–5 giorni lavorativi",
+      "prezzo": null,
+      "prezzoLabel": "Su preventivo",
+      "icon": "🔧",
+      "categoria": "montatura",
+      "evidenza": true
+    },
+    {
+      "id": "contattologia",
+      "nome": "Contattologia e Lenti a Contatto",
+      "descrizione": "Applicazione e follow-up per lenti morbide giornaliere, bisettimanali e mensili. Consulenza per astigmatismo e presbiopia. Marchi: Alcon, CooperVision, Johnson & Johnson.",
+      "durata": "45 minuti (prima applicazione)",
+      "prezzo": 40,
+      "prezzoLabel": "Prima applicazione €40",
+      "icon": "🔵",
+      "categoria": "contatto",
+      "evidenza": true
+    },
+    {
+      "id": "occhiali-sport",
+      "nome": "Occhiali da Sport e Outdoor",
+      "descrizione": "Selezione di montature e lenti specifiche per ciclismo, sci, running, golf e water sport. Lenti fotocromatiche, polarizzate e con protezione UV400.",
+      "durata": null,
+      "prezzo": null,
+      "prezzoLabel": "Da €85",
+      "icon": "🏃",
+      "categoria": "sport",
+      "evidenza": false
+    },
+    {
+      "id": "orto-k",
+      "nome": "Orto-Cheratologia (Orto-K)",
+      "descrizione": "Lenti rigide gas-permeabili da indossare di notte per correggere la miopia durante il giorno senza occhiali né lenti. Ideale per bambini e adolescenti con miopia progressiva.",
+      "durata": "60 minuti (prima visita)",
+      "prezzo": 120,
+      "prezzoLabel": "Prima visita €120",
+      "icon": "🌙",
+      "categoria": "contatto",
+      "evidenza": false
+    },
+    {
+      "id": "ipovisione",
+      "nome": "Servizio Ipovisione",
+      "descrizione": "Valutazione e ausili ottici per persone con ridotta capacità visiva non correggibile: lenti ingrandenti, sistemi prismatici, filtri selettivi. In convenzione con la Regione Liguria.",
+      "durata": "60 minuti",
+      "prezzo": 0,
+      "prezzoLabel": "Gratuito (convenzione)",
+      "icon": "🔍",
+      "categoria": "speciale",
+      "evidenza": false
+    },
+    {
+      "id": "riparazioni",
+      "nome": "Riparazioni e Manutenzione",
+      "descrizione": "Saldatura, sostituzione aste, naselli, viti e cerniere. Pulizia ad ultrasuoni. Intervento rapido su montature di qualsiasi marca.",
+      "durata": "30 minuti – 3 giorni",
+      "prezzo": null,
+      "prezzoLabel": "Da €10",
+      "icon": "🛠️",
+      "categoria": "montatura",
+      "evidenza": false
+    },
+    {
+      "id": "occhiali-bambino",
+      "nome": "Occhiali per Bambini",
+      "descrizione": "Esame della vista pediatrico gratuito dai 3 anni. Montature flessibili TR90 e acetato anallergico. Convenzione con SSN per bambini fino a 14 anni.",
+      "durata": "30 minuti",
+      "prezzo": 0,
+      "prezzoLabel": "Esame gratuito",
+      "icon": "👶",
+      "categoria": "diagnostica",
+      "evidenza": false
+    }
+  ]
+}

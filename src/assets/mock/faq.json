@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "L'esame della vista è davvero gratuito?",
+      "risposta": "Sì, l'esame della vista è completamente gratuito e senza impegno, per tutte le fasce di età inclusi i bambini dai 3 anni. Dura circa 30 minuti e include la misurazione della refrazione con strumentazione computerizzata e la valutazione manuale da parte di un ottico diplomato."
+    },
+    {
+      "domanda": "Quanto dura la garanzia sugli occhiali?",
+      "risposta": "Offriamo 2 anni di garanzia su difetti di fabbricazione sia sulle montature che sulle lenti. La garanzia copre difetti della cerniera, scollamento delle lenti, difetti di rifrazione. Non copre danni accidentali o usura normale."
+    },
+    {
+      "domanda": "Avete occhiali per bambini con convenzione SSN?",
+      "risposta": "Sì, siamo convenzionati con il SSN per i buoni vista pediatrici destinati a bambini fino a 14 anni. Portate la prescrizione del pediatra o dell'oculista e la tessera sanitaria: pensiamo noi a tutto il resto. L'esame della vista pediatrico è sempre gratuito."
+    },
+    {
+      "domanda": "Cosa sono le lenti progressive e a partire da che età si usano?",
+      "risposta": "Le lenti progressive (o multifocali) correggono contemporaneamente la visione da lontano, intermedia e da vicino. Si usano principalmente per la presbiopia, che compare intorno ai 40-45 anni. Offriamo progressive di tutte le fasce (entry-level, mid-range, high-end) con periodo di adattamento garantito."
+    },
+    {
+      "domanda": "È possibile il finanziamento a rate?",
+      "risposta": "Sì, lavoriamo con Cofidis per finanziamenti a tasso zero per acquisti superiori a €100. Possibilità di rateizzare in 3, 6, 10 e 12 rate. Approvazione in negozio in pochi minuti con documento d'identità e codice fiscale."
+    },
+    {
+      "domanda": "Accettate occhiali acquistati altrove per la sostituzione delle lenti?",
+      "risposta": "Sì, eseguiamo il montaggio lenti su qualsiasi montatura portata dal cliente, purché in buone condizioni strutturali. Il preventivo è gratuito. Vi consigliamo di portare anche la vostra ultima prescrizione."
+    },
+    {
+      "domanda": "Cos'è l'orto-cheratologia e per chi è indicata?",
+      "risposta": "L'orto-K è un metodo per ridurre la miopia usando lenti rigide da indossare solo di notte. Di giorno si vede nitido senza occhiali né lenti. È particolarmente indicata per bambini e adolescenti con miopia in progressione, perché rallenta significativamente l'aumento del difetto visivo."
+    },
+    {
+      "domanda": "Cosa rientra nel servizio di ipovisione?",
+      "risposta": "Il servizio ipovisione è rivolto a persone con grave riduzione visiva non correggibile con occhiali tradizionali (es. degenerazione maculare, glaucoma avanzato, retinopatia diabetica). Valutiamo gratuitamente gli ausili ottici più adatti: lenti ingrandenti, sistemi elettronici, filtri colorati. In convenzione ASL Liguria."
+    }
+  ]
+}
